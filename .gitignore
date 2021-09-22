@@ -1,0 +1,11 @@
+# Directories #
+lib/
+out/
+# Package Files #
+*.jar
+*.war
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
